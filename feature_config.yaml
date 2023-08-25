@@ -1,0 +1,10 @@
+numerical:
+  - Age
+categorical:
+  - Gender
+  - Family_History
+  - Previous_Polyps
+  - Symptoms
+  - Lifestyle_Risk
+  - Other_Conditions
+  - Physician_Recommendation
